@@ -1,0 +1,21 @@
+USE RetailSalesDB;
+GO
+
+CREATE TABLE dbo.Online_Retail_Cleaned
+(
+    InvoiceNo NVARCHAR(50) NOT NULL,
+    StockCode NVARCHAR(50) NOT NULL,
+    Description NVARCHAR(255) NULL,
+    Quantity INT NOT NULL,
+    InvoiceDate DATETIME2 NOT NULL,
+    UnitPrice FLOAT NOT NULL,
+    CustomerID INT NULL,
+    Country NVARCHAR(50) NOT NULL
+);
+GO
+
+SELECT COLUMN_NAME, DATA_TYPE, IS_NULLABLE
+FROM INFORMATION_SCHEMA.COLUMNS
+WHERE TABLE_NAME = 'Online_Retail_Cleaned'
+ORDER BY ORDINAL_POSITION;
+GO

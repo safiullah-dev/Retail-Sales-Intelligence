@@ -1,0 +1,20 @@
+RETAIL SALES INTELLIGENCE & BUSINESS ANALYSIS
+BUSINESS RECOMMENDATIONS
+
+1. Strengthen the UK Market
+The United Kingdom is the company's largest sales market, generating approximately £9 million in revenue. The business should maintain product availability, improve customer service, and strengthen customer relationships in this market.
+
+2. Improve Inventory Management
+The top-selling products contribute significantly to total revenue. The company should monitor product demand and maintain appropriate inventory levels to reduce stock shortages.
+
+3. Increase Customer Retention
+The analysis identified 2,845 repeat customers, representing 65.58% of identifiable customers. The company should introduce loyalty programs, personalized offers, and repeat-purchase campaigns.
+
+4. Reduce Cancellations
+The cancellation rate is approximately 16.12%. The company should investigate cancellation patterns by product, country, and month to identify possible causes and reduce avoidable cancellations.
+
+5. Improve Sales Planning
+Monthly sales trends can help management understand changes in customer demand. The company should use historical sales patterns to plan inventory, promotions, and seasonal campaigns.
+
+CONCLUSION
+The analysis provides useful insights into sales performance, customer behavior, product demand, and cancellations. Implementing these recommendations can help the business improve decision-making, customer retention, and operational efficiency.

@@ -1,0 +1,21 @@
+PROJECT: Retail Sales Intelligence
+
+DATASET: Online Retail.xlsx
+
+Total Records: 541,909
+Total Columns: 8
+
+First Transaction: 01/12/2010
+Last Transaction: 09/12/2011
+
+COLUMNS:
+1. InvoiceNo
+2. StockCode
+3. Description
+4. Quantity
+5. InvoiceDate
+6. UnitPrice
+7. CustomerID
+8. Country
+
+First Invoice Number: 536365
